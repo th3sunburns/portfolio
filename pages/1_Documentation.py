@@ -7,8 +7,6 @@ st.set_page_config(
 
 st.write('# Documentation')
 
-st.container
-
 st.markdown(
     '''
 
