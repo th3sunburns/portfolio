@@ -7,8 +7,6 @@ st.set_page_config(
 
 st.write('# Highlights')
 
-st.sidebar.success('Select a demo above.')
-
 st.markdown(
     '''
     
