@@ -1,13 +1,11 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title='Hello',
-    page_icon='👋',
+    page_title='About',
+    page_icon='🤖',
 )
 
-st.write('# Thank you for visiting! 🤖')
-
-st.sidebar.success('Select a demo above.')
+st.write('# About')
 
 st.markdown(
     '''
@@ -26,7 +24,7 @@ st.markdown(
     Effective communication enables quick reactions when necessary, ensuring that all departments 
     are aligned and responsive in a fast-paced environment.
 
-    If you have any questions or feedback, feel free to reach out! I'm always happy to connect and chat
+    If you have any questions or feedback, feel free to reach out! I'm always happy to connect and chat (a bit).
     
     I'm always open to connecting!
 
