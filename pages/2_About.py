@@ -24,7 +24,7 @@ st.markdown(
     Effective communication enables quick reactions when necessary, ensuring that all departments 
     are aligned and responsive in a fast-paced environment.
 
-    If you have any questions or feedback, feel free to reach out! I'm always happy to connect and chat (a bit).
+    If you have any questions or feedback, feel free to reach out!
     
     I'm always open to connecting!
 
