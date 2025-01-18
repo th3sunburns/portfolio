@@ -9,6 +9,5 @@ st.write('# Highlights')
 
 st.markdown(
     '''
-    
     '''
 )
